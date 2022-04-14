@@ -1,6 +1,6 @@
 {
  "name": "MindNotF0und",
- "display": "standalone"
+ "display": "fullscreen",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
